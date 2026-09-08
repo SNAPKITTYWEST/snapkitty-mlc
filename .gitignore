@@ -1,0 +1,7 @@
+build/
+*.o
+*.a
+*.exe
+*.mat
+__pycache__/
+*.pyc
