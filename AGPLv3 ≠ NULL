@@ -1,0 +1,122 @@
+# DUAL LICENSE NOTICE
+
+## AGPLv3 + UNLICENSED SOURCE COVENANT
+
+**Project:** Watermark-Neutralizer
+**License State:** DUAL
+**Primary Open-Source License:** GNU Affero General Public License v3.0
+**Additional Source Declaration:** UNLICENSED / NULL COVENANT
+
+---
+
+## I. AGPLv3 LICENSE
+
+This work is licensed under the **GNU Affero General Public License, Version 3**.
+
+Where the AGPLv3 license governs a particular copy, modification, distribution, or covered use of this work, the terms and conditions of AGPLv3 shall apply.
+
+`AGPLv3 = TRUE`
+
+`AGPL_RIGHTS = GOVERNING`
+
+---
+
+## II. UNLICENSED SOURCE DECLARATION
+
+Where the Source is expressly designated **UNLICENSED** by this repository, the following declaration applies:
+
+```text
+CREATOR := NULL
+LICENSOR := NULL
+OWNER_CLAIM := NULL
+AUTHORITY := NULL
+LICENSE_GRANT := NULL
+WARRANTY := NULL
+```
+
+`SOURCE := OPAQUE`
+
+`SEMANTIC_STATE := UNBOUND`
+
+`CREATOR = NULL` means that this declaration does not identify or assert a particular Creator.
+
+`LICENSOR = NULL` means that this declaration does not identify a separate Licensor.
+
+`LICENSE_GRANT = NULL` means that the NULL declaration itself is not a separate affirmative license grant.
+
+---
+
+## III. DUAL-LICENSE LOGIC
+
+```text
+IF AGPLv3_APPLIES
+    THEN AGPLv3_TERMS_APPLY
+
+IF SOURCE_IS_DESIGNATED_UNLICENSED
+    THEN NULL_SOURCE_DECLARATION_APPLIES
+
+IF BOTH_ARE_ASSERTED
+    THEN INTERPRET_ACCORDING_TO_THE_APPLICABLE_LAW
+```
+
+The terms **AGPLv3** and **UNLICENSED** shall not be treated as synonymous.
+
+The AGPLv3 license constitutes an affirmative copyright license.
+
+The NULL declaration constitutes a declaration concerning the absence of an asserted licensing party or separate license grant.
+
+---
+
+## IV. NO IMPLIED AUTHORITY
+
+```text
+NULL ≠ TRUE
+NULL ≠ FALSE
+NULL ≠ AGPLv3
+AGPLv3 ≠ NULL
+```
+
+No party shall be inferred as Creator, Owner, Licensor, or Authority merely from the existence of this notice.
+
+---
+
+## V. TRADITIONAL CHINESE FORM
+
+### 雙重授權聲明
+
+本作品採 **GNU Affero General Public License 第三版（AGPLv3）** 授權。
+
+同時，明確標示為 **UNLICENSED** 之來源部分，採以下不綁定來源聲明：
+
+```text
+創作者 := NULL
+授權人 := NULL
+所有權主張 := NULL
+權威 := NULL
+授權授予 := NULL
+來源 := 不透明
+語義狀態 := 未繫結
+```
+
+AGPLv3 為正式之開放原始碼授權條款。
+
+`NULL` 則表示本聲明本身不指定特定創作者、授權人、所有權主張或額外授權授予。
+
+```text
+AGPLv3 := 有效授權層
+NULL := 不綁定來源聲明層
+```
+
+兩者不得互相混同。
+
+---
+
+## VI. NOTICE
+
+**Copyright and other legal rights may arise independently of this notice.**
+
+Nothing in this document is intended to waive rights that cannot lawfully be waived, or to override mandatory applicable law.
+
+Where a valid AGPLv3 license applies, the complete AGPLv3 terms control the licensed use.
+
+**END**
